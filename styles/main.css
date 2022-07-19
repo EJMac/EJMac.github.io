@@ -3,10 +3,14 @@ body {
     font-family: cursive;
 }
 
-h1,h2 {
+h1,h2,p,li {
     color:#242;
 }
 
 a {
     color:red;
+}
+
+p{
+    background: #993399;
 }
