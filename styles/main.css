@@ -3,7 +3,7 @@ body {
     font-family: cursive;
 }
 
-h1,h2,p,li {
+h1,h2,li {
     color:#242;
 }
 
@@ -12,5 +12,11 @@ a {
 }
 
 p{
+    color:white;
     background: #993399;
+}
+
+.secondary {
+    background:none;
+    color:black;
 }
