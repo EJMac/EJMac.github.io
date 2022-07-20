@@ -1,3 +1,10 @@
+body {
+    background:#a896ba; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:greenyellow;
+    margin:0;
+}
+
 header{
     background: #662244;
     color:white;
@@ -5,12 +12,6 @@ header{
     padding: 10px 12px 0px 12px;
 }
 
-body {
-    background:#a896ba; 
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color:greenyellow;
-    margin:0;
-}
  header h1{
     margin:0;
     display:inline;
@@ -29,21 +30,6 @@ nav ul li {
     padding: 5px 12px;
 }
 
-h1,h2,li {
-    color:#664;
-    
-}
-
-a {
-    color:lightskyblue;
-}
-
-p{
-    color:white;
-    background: #333;
-}
-
-.secondary {
-    background:none;
-    color:black;
+nav ul li {
+    color:steelblue;
 }
