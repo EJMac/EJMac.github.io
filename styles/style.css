@@ -1,12 +1,34 @@
+header{
+    background: #662244;
+    color:white;
+    margin:0;
+}
+
 body {
     background:#a896ba; 
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color:greenyellow;
+    margin:0;
 }
+ header h1{
+    margin:0;
+ }
 
+ nav ul {
+    margin:0;
+ }
+
+nav ul li {
+    background:gray;
+    color:goldenrod;
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px 12px;
+}
 
 h1,h2,li {
     color:#664;
+    
 }
 
 a {
