@@ -18,7 +18,6 @@ header{
  }
 
  nav ul {
-    background: black;
     margin:0;
     display:inline;
  }
@@ -33,4 +32,12 @@ nav ul li {
 
 nav ul li {
     color:steelblue;
+}
+
+p{
+    color:black;
+}
+p.secondary{
+    color:white;
+    background: black;
 }
