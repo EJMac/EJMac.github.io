@@ -2,6 +2,7 @@ header{
     background: #662244;
     color:white;
     margin:0;
+    padding: 10px 12px 0px 12px;
 }
 
 body {
@@ -12,10 +13,12 @@ body {
 }
  header h1{
     margin:0;
+    display:inline;
  }
 
  nav ul {
     margin:0;
+    display:inline;
  }
 
 nav ul li {
