@@ -36,12 +36,14 @@ nav ul li {
 }
 
 div.row {
-    color:white;    
+    color: white;
 }
 
 div.col {
-    background:#666;
-    margin: 1%;
+    background: #666;
+    border-radius: 3px;
+    padding: 0.5%;
+    margin: 0.5%;
     width: 31.333%;
     float: left;
 }
