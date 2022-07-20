@@ -18,6 +18,7 @@ header{
  }
 
  nav ul {
+    background: black;
     margin:0;
     display:inline;
  }
