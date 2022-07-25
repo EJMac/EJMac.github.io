@@ -39,6 +39,7 @@ div.row {
     color: white;
     background: #666;
     border-radius: 5px;
+    padding: 0.5%;
 }
 
 div.col {
@@ -61,4 +62,11 @@ p {
 p.secondary {
     color: white;
     background: black;
+}
+
+.btn.btn-default, .card, .form-control {
+    background-color: #990000 !important;
+    background: #009900 !important;
+    color: #7777FF !important;
+    border-radius: 0%;
 }
