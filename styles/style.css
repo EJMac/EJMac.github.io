@@ -65,22 +65,7 @@ p.secondary {
 }
 
 .btn.btn-default, .card, .form-control {
-    background-color: #990000 !important;
-    background: #009900 !important;
-    color: #7777FF !important;
-    border-radius: 0%;
-}
-
-.card {
-    background-color: #999900 !important;
-    background: #009900 !important;
-    color: #ffffff !important;
-    border-radius: 0%;
-}
-
-.form-control {
-    background-color: #009999 !important;
-    background: #009900 !important;
-    color: #000000 !important;
-    border-radius: 0%;
+    background: #333 !important;
+    color: #FFFFFF !important;
+    border-radius: 25%;
 }
