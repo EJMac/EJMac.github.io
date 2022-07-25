@@ -37,6 +37,8 @@ nav ul li {
 
 div.row {
     color: white;
+    background: #666;
+    border-radius: 5px;
 }
 
 div.col {
