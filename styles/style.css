@@ -61,10 +61,10 @@ p {
 
 p.secondary {
     color: white;
-    background: black;
+    background: green;
 }
 
-.btn.btn-default, .card, .form-control {
+.btn.btn-default {
     background: #333 !important;
     color: #FFFFFF !important;
     border-radius: 25%;
