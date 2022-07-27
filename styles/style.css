@@ -1,7 +1,7 @@
 body {
     background: #a896ba;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: yellow;
+    color: green;
     margin: 0;
 }
 
@@ -36,7 +36,7 @@ nav ul li {
 }
 
 div.row {
-    color: white;
+    color: red;
     background: #666;
     border-radius: 5px;
     padding: 0.5%;
@@ -68,4 +68,15 @@ p.secondary {
     background: #333 !important;
     color: #FFFFFF !important;
     border-radius: 25%;
+}
+
+.myPanel {
+    background: #242424;
+}
+
+.myPanel .heading {
+    background:#662244;
+    border: 1px solid #242424;
+    border-radius:  5px 5px 0 0;
+    color: antiquewhite;
 }
